@@ -1,0 +1,12 @@
+# Pycache
+*.pyc
+__pycache__/
+
+# Screenshots
+Screenshots/
+
+# vscode
+.vscode/
+
+# log
+data/log/

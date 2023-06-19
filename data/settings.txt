@@ -1,0 +1,1 @@
+{"FPS": 60, "Friction_coefficient": 1.5, "Elastic_modulus": 0.7, "Screen_size": [1280, 720], "Volume_song": 25, "Volume_effect": 50}
