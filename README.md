@@ -30,6 +30,7 @@ If these codes don't work, the problems might be one of the following.
 * Python not in path
 * Pip not installed
 * Wrong version of pip<br>
+
 If the code did work on Windows, open python IDLE and enter this code:
 ```
 import pygame
